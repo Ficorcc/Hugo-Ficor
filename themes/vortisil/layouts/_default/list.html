@@ -1,0 +1,58 @@
+{{ define "main"}}
+<div class="posts">
+  {{ if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+    <h1>{{ .Title }} ({{ len .Pages }})</h1>
+    <div class="posts-list">
+      {{ range .Pages }}
+      <div class="posts-item">
+        <div class="posts-date">{{ .Date | dateFormat "2006-01-02" }}</div>
+        <div class="posts-title" style="border-bottom: none;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+      </div>
+      {{ end }}
+    </div>
+  {{ else }}
+    {{ $pages := where .Site.RegularPages "Type" "posts" }}
+    {{ $grouped := $pages.GroupByDate "2006" }}
+    {{ $paginator := .Paginate $grouped }}
+
+    <h1>{{ index $.Site.Data.l10n "archives" }} ({{ len $pages }})</h1>
+
+    {{ range $paginator.PageGroups }}
+    <h2>{{ .Key }}</h2>
+    <div class="posts-list">
+      {{ range .Pages }}
+      <div class="posts-item">
+        <div class="posts-date">{{ .Date | dateFormat "2006-01-02" }}</div>
+        <div class="posts-title" style="border-bottom: none;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+    {{ partial "pagination.html" . }}
+
+    <div class="taxonomy-section">
+      {{ with .Site.Taxonomies.categories }}
+      <div class="taxonomy-block">
+        <h3>分类</h3>
+        <div class="taxonomy-list">
+          {{ range . }}
+          <a href="{{ .Page.RelPermalink }}" class="taxonomy-item">{{ .Page.Title }} ({{ .Count }})</a>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+
+      {{ with .Site.Taxonomies.tags }}
+      <div class="taxonomy-block">
+        <h3>标签</h3>
+        <div class="taxonomy-list">
+          {{ range . }}
+          <a href="{{ .Page.RelPermalink }}" class="taxonomy-item">{{ .Page.Title }} ({{ .Count }})</a>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  {{ end }}
+</div>
+{{ end }}

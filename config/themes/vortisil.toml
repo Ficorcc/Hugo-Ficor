@@ -1,0 +1,56 @@
+baseURL = 'https://lawpan.cc/'
+languageCode = 'en-us'
+title = 'Lawpan'
+copyright = 'Lawpan'
+theme = 'vortisil'
+hasCJKLanguage = true
+enableEmoji = true
+disableKinds = ["taxonomy","term"]
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  author = 'Lawpan'
+  logoImg = false
+  logoInvert = false
+  math = true
+
+[params.comments]
+  enabled = false
+
+[params.meta]
+  description = '探索技术与生活的交汇点'
+
+[[menus.main]]
+  identifier = 'home'
+  name = '首页'
+  url = '/'
+  weight = 1
+
+[[menus.main]]
+  identifier = 'archives'
+  name = '归档'
+  url = '/posts'
+  weight = 2
+
+[[menus.main]]
+  identifier = 'about'
+  name = '关于'
+  url = '/about/'
+  weight = 3
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.116.0"
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+    tabWidth = 4
+    codeFences = true
+    guessSyntax = true
+
+[outputs]
+  home = ["HTML", "JSON"]

@@ -1,0 +1,34 @@
+baseURL = 'https://lawpan.cc/'
+languageCode = 'en-us'
+title = 'Lawpan'
+theme = 'LucentLink'
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  description = '探索技术与生活的交汇点'
+
+[[menu.main]]
+  identifier = 'home'
+  name = '首页'
+  url = '/'
+  weight = 1
+
+[[menu.main]]
+  identifier = 'moments'
+  name = 'Moments'
+  url = '/moments/'
+  weight = 2
+
+[[menu.main]]
+  identifier = 'archive'
+  name = '归档'
+  url = '/archive/'
+  weight = 3
+
+[[menu.main]]
+  identifier = 'about'
+  name = '关于'
+  url = '/about/'
+  weight = 4

@@ -1,0 +1,12 @@
+baseURL      = "https://lawpan.cc/"
+languageCode = "zh-cn"
+title        = "Lawpan"
+theme        = "LucentLink"
+minVersion   = "0.115.0"
+
+[params]
+  description     = "探索技术与生活的交汇点"
+  googleAnalytics = "" 
+
+[outputs]
+  home = ["HTML"]
