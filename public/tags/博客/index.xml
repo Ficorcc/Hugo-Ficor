@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>博客 on Lawpan</title>
-    <link>https://lawpan.cc/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <link>http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content in 博客 on Lawpan</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>Lawpan</copyright>
     <lastBuildDate>Sat, 07 Feb 2026 21:37:00 +0800</lastBuildDate>
-    <atom:link href="https://lawpan.cc/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>静态博客之路</title>
-      <link>https://lawpan.cc/posts/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E4%B9%8B%E8%B7%AF/</link>
+      <link>http://localhost:1313/posts/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E4%B9%8B%E8%B7%AF/</link>
       <pubDate>Sat, 07 Feb 2026 21:37:00 +0800</pubDate>
-      <guid>https://lawpan.cc/posts/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E4%B9%8B%E8%B7%AF/</guid>
+      <guid>http://localhost:1313/posts/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E4%B9%8B%E8%B7%AF/</guid>
       <description>&lt;p&gt;最近一直在折腾静态博客，鉴于自身性格原因，有点小小的强迫症，把所有的能找到的程序全部试了一遍，从Hexo，Hugo到最后确定了Astro。中间一些小众一点的静态动态博客基本上全部试了个遍。最终敲定了用Astro来搭建自己的博客。&lt;/p&gt;</description>
     </item>
     <item>
       <title>我的第一篇文章</title>
-      <link>https://lawpan.cc/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+      <link>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://lawpan.cc/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+      <guid>http://localhost:1313/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
       <description>&lt;p&gt;这是我的第一篇Hugo博客的文章，看看自己成没成功&lt;/p&gt;&#xA;&lt;p&gt;经过近20次的实验和推倒重来，终于是自己显示了，整出来了&lt;/p&gt;&#xA;&lt;p&gt;对于我来说，这是一个小小的里程碑吧，由于我没有一点的基础&lt;br&gt;&#xA;所以，暂时会保持这个状态，不敢轻举妄动了&lt;/p&gt;</description>
     </item>
     <item>
       <title>坚果云 x Obsidian 官方同步插件</title>
-      <link>https://lawpan.cc/posts/%E5%9D%9A%E6%9E%9C%E4%BA%91-x-obsidian-%E5%AE%98%E6%96%B9%E5%90%8C%E6%AD%A5%E6%8F%92%E4%BB%B6/</link>
+      <link>http://localhost:1313/posts/%E5%9D%9A%E6%9E%9C%E4%BA%91-x-obsidian-%E5%AE%98%E6%96%B9%E5%90%8C%E6%AD%A5%E6%8F%92%E4%BB%B6/</link>
       <pubDate>Thu, 15 Jan 2026 15:50:18 +0800</pubDate>
-      <guid>https://lawpan.cc/posts/%E5%9D%9A%E6%9E%9C%E4%BA%91-x-obsidian-%E5%AE%98%E6%96%B9%E5%90%8C%E6%AD%A5%E6%8F%92%E4%BB%B6/</guid>
+      <guid>http://localhost:1313/posts/%E5%9D%9A%E6%9E%9C%E4%BA%91-x-obsidian-%E5%AE%98%E6%96%B9%E5%90%8C%E6%AD%A5%E6%8F%92%E4%BB%B6/</guid>
       <description>&lt;p&gt;新的一年已经过去半个月了，好久没更新了，也是因为最近一直没有什么值得记录的。&lt;/p&gt;&#xA;&lt;p&gt;最近一直在折腾手头的工具，也一直在准备写一篇”技术“类的文章，分享一下。只是一直没行动。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025年终总结</title>
-      <link>https://lawpan.cc/posts/2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
+      <link>http://localhost:1313/posts/2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://lawpan.cc/posts/2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
+      <guid>http://localhost:1313/posts/2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
       <description>&lt;p&gt;还有不到 4 个小时，2025 年就过去了，迎来新新的 2026 年。&lt;/p&gt;&#xA;&lt;p&gt;每天看着订阅里全是各种花样的 2025 年终总结，感觉大家的生活真是各有各的丰富多彩，光鲜亮丽。&lt;/p&gt;&#xA;&lt;p&gt;实在是羡慕。今天上午阴天有风，天尤其的冷，终于给 2025 画上了句号。&lt;/p&gt;</description>
     </item>
     <item>
       <title>网站</title>
-      <link>https://lawpan.cc/posts/%E7%BD%91%E7%AB%99/</link>
+      <link>http://localhost:1313/posts/%E7%BD%91%E7%AB%99/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://lawpan.cc/posts/%E7%BD%91%E7%AB%99/</guid>
+      <guid>http://localhost:1313/posts/%E7%BD%91%E7%AB%99/</guid>
       <description>&lt;p&gt;最近把网站又重新拾起来，空闲时间折腾备案，折腾主题，到处的逛别人的网站，找途径恢复之前用的东西，其实到今天总结一下，大概率是自己老了吧，想找回年轻时候的那点乐趣和回忆。&lt;/p&gt;</description>
     </item>
   </channel>

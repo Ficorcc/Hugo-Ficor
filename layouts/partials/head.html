@@ -61,8 +61,8 @@
     rel="stylesheet"
     href="{{ $.Site.Params.staticPrefix }}{{ . | relURL }}"
   />
-  {{- end }} <link href="{{ .Site.Params.staticPrefix }}{{ "index.xml" | relURL
-  }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
+  {{- end }}
+  <link href="{{ .Site.BaseURL }}index.xml" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com" />
   <link

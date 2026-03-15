@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>法考 on Lawpan</title>
-    <link>https://lawpan.cc/tags/%E6%B3%95%E8%80%83/</link>
+    <link>http://localhost:1313/tags/%E6%B3%95%E8%80%83/</link>
     <description>Recent content in 法考 on Lawpan</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>Lawpan</copyright>
     <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lawpan.cc/tags/%E6%B3%95%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%B3%95%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>法律之路</title>
-      <link>https://lawpan.cc/posts/%E6%B3%95%E5%BE%8B%E4%B9%8B%E8%B7%AF/</link>
+      <link>http://localhost:1313/posts/%E6%B3%95%E5%BE%8B%E4%B9%8B%E8%B7%AF/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://lawpan.cc/posts/%E6%B3%95%E5%BE%8B%E4%B9%8B%E8%B7%AF/</guid>
+      <guid>http://localhost:1313/posts/%E6%B3%95%E5%BE%8B%E4%B9%8B%E8%B7%AF/</guid>
       <description>&lt;p&gt;最近几年，生意不好做，原本经营的小项目，逐渐支撑下去了，中间夹杂着很多事情，需要用到法律相关的知识，随着自己的日常接触和自学，逐渐的喜欢上了这门透着刺激、好奇和实用的学问。&lt;/p&gt;</description>
     </item>
   </channel>
