@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>随笔 on Lawpan</title>
+    <link>http://localhost:1313/tags/%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 随笔 on Lawpan</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>Lawpan</copyright>
+    <atom:link href="http://localhost:1313/tags/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>九月的尾巴</title>
+      <link>http://localhost:1313/posts/%E4%B9%9D%E6%9C%88%E7%9A%84%E5%B0%BE%E5%B7%B4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E4%B9%9D%E6%9C%88%E7%9A%84%E5%B0%BE%E5%B7%B4/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;备案&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;最近网站暂停访问了几天，弄了弄备案，换了服务器，搬了数据，换了主题，总之，面目全非。&lt;/p&gt;&#xA;&lt;p&gt;整合了一下手里的东西，把域名之类的梳理了一下。弄了一个memos，轻量，简单，速度快，整体体验感不错。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>看病难</title>
+      <link>http://localhost:1313/posts/%E7%9C%8B%E7%97%85%E9%9A%BE/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E7%9C%8B%E7%97%85%E9%9A%BE/</guid>
+      <description>&lt;p&gt;女儿最近几天腿疼，带着跑医院，做治疗，简单记录一下&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;第一天&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;三天前的下午，女儿班主任打电话说女儿腿受伤了，疼得厉害，让我带着去医院看一下。女儿自己说是跑步了，跑完步过了一会就这样了。我感觉像是肌肉拉伤，然后就带着到了镇医院。外科一个年轻的医生，简单问了一下，说就是肌肉拉伤，不用拍片，开了点布洛芬就回家了。女儿属于比较矫情的，不吃疼，一点点疼在她嘴里说出来都很厉害。我们也以为只是肌肉拉伤，吃点止痛药就行了。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

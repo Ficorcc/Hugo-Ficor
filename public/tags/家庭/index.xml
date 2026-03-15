@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>家庭 on Lawpan</title>
+    <link>http://localhost:60819/tags/%E5%AE%B6%E5%BA%AD/</link>
+    <description>Recent content in 家庭 on Lawpan</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>Lawpan</copyright>
+    <lastBuildDate>Mon, 11 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:60819/tags/%E5%AE%B6%E5%BA%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>女儿</title>
+      <link>http://localhost:60819/posts/%E5%A5%B3%E5%84%BF/</link>
+      <pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60819/posts/%E5%A5%B3%E5%84%BF/</guid>
+      <description>&lt;p&gt;女儿相关记录&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

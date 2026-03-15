@@ -11,6 +11,7 @@ enableEmoji = true
   pagerSize = 5
 
 [params]
+  mainSections = ["posts"]
   [params.author]
     name = "Lawpan"
   logoImg = false

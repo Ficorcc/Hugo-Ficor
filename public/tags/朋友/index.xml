@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>朋友 on Lawpan</title>
+    <link>http://localhost:1313/tags/%E6%9C%8B%E5%8F%8B/</link>
+    <description>Recent content in 朋友 on Lawpan</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>Lawpan</copyright>
+    <atom:link href="http://localhost:1313/tags/%E6%9C%8B%E5%8F%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>节日</title>
+      <link>http://localhost:1313/posts/%E8%8A%82%E6%97%A5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E8%8A%82%E6%97%A5/</guid>
+      <description>&lt;p&gt;今年的十一假期加上中秋节是八天，我们这里已经下了四天的雨了，只有昨天上午是个晴天，下午又阴了，从昨天晚上一直下到现在。&lt;/p&gt;&#xA;&lt;p&gt;在雨中，开车经过北京路桥，看着飘起的国旗，看着人行道上拍照留念的人群，感受到浓浓的节日气氛。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

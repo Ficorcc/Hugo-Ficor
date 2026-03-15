@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>医院 on Lawpan</title>
+    <link>http://localhost:60819/tags/%E5%8C%BB%E9%99%A2/</link>
+    <description>Recent content in 医院 on Lawpan</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>Lawpan</copyright>
+    <lastBuildDate>Fri, 28 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:60819/tags/%E5%8C%BB%E9%99%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>看病难</title>
+      <link>http://localhost:60819/posts/%E7%9C%8B%E7%97%85%E9%9A%BE/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60819/posts/%E7%9C%8B%E7%97%85%E9%9A%BE/</guid>
+      <description>&lt;p&gt;看病难记录&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
