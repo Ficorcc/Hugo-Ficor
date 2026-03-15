@@ -1,12 +1,14 @@
 {{ $curLanguageName := .Site.Language.LanguageName }}
 <header>
   <div class="header-main">
-    <div class="header-title">
-      <a href="{{ .Site.LanguagePrefix }}/"
-        >{{ or .Site.Params.headTitle .Site.Params.author.name }}</a
-      >
+    <div class="header-brand">
+      <div class="header-title">
+        <a href="{{ .Site.LanguagePrefix }}/"
+          >{{ or .Site.Params.headTitle .Site.Params.author.name }}</a
+        >
+      </div>
+      <div class="header-subtitle">{{ .Site.Params.meta.description }}</div>
     </div>
-    <div class="header-subtitle">{{ .Site.Params.meta.description }}</div>
     <div class="header-items">
       {{ range .Site.Menus.main }}
       <div class="header-item">
