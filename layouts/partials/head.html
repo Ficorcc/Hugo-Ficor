@@ -53,7 +53,7 @@
   {{ with resources.Get "css/index.css" | minify }}
   <style>{{ .Content|safeCSS }}</style>
   {{ end }}
-  {{ with resources.Get "css/flexboxgrid-6.3.1.min.css" | minify }}
+  {{ with resources.Get "css/flexboxgrid-6.3.1.min.css" }}
   <style>{{ .Content|safeCSS }}</style>
   {{ end }}
   {{ range .Site.Params.extraCSSFiles -}}
