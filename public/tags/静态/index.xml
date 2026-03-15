@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>静态 on Lawpan</title>
-    <link>http://localhost:1313/tags/%E9%9D%99%E6%80%81/</link>
+    <link>https://lawpan.cc/tags/%E9%9D%99%E6%80%81/</link>
     <description>Recent content in 静态 on Lawpan</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>Lawpan</copyright>
     <lastBuildDate>Sat, 07 Feb 2026 21:37:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E9%9D%99%E6%80%81/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lawpan.cc/tags/%E9%9D%99%E6%80%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>静态博客之路</title>
-      <link>http://localhost:1313/posts/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E4%B9%8B%E8%B7%AF/</link>
+      <link>https://lawpan.cc/posts/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E4%B9%8B%E8%B7%AF/</link>
       <pubDate>Sat, 07 Feb 2026 21:37:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E4%B9%8B%E8%B7%AF/</guid>
+      <guid>https://lawpan.cc/posts/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E4%B9%8B%E8%B7%AF/</guid>
       <description>&lt;p&gt;最近一直在折腾静态博客，鉴于自身性格原因，有点小小的强迫症，把所有的能找到的程序全部试了一遍，从Hexo，Hugo到最后确定了Astro。中间一些小众一点的静态动态博客基本上全部试了个遍。最终敲定了用Astro来搭建自己的博客。&lt;/p&gt;</description>
     </item>
   </channel>

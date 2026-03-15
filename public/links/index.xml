@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Links on Lawpan</title>
-    <link>http://localhost:1313/links/</link>
+    <link>https://lawpan.cc/links/</link>
     <description>Recent content in Links on Lawpan</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>Lawpan</copyright>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/links/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lawpan.cc/links/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
