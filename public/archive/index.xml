@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>归档 | Lawpan</title>
-    <link>http://localhost:51735/archive/</link>
+    <link>http://localhost:52265/archive/</link>
     <description>探索技术与生活的交汇点</description>
     <language>zh-cn</language>
     <copyright>Lawpan</copyright>
     <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0800</lastBuildDate>
     
-    <atom:link href="http://localhost:51735/archive/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52265/archive/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

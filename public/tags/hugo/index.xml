@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo | Lawpan</title>
-    <link>http://localhost:51735/tags/hugo/</link>
+    <link>http://localhost:52265/tags/hugo/</link>
     <description>探索技术与生活的交汇点</description>
     <language>zh-cn</language>
     <copyright>Lawpan</copyright>
     <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:51735/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52265/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>我的第一篇文章</title>
-      <link>http://localhost:51735/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+      <link>http://localhost:52265/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:51735/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+      <guid>http://localhost:52265/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
       <description>这是我的第一篇Hugo博客的文章，看看自己成没成功
 经过近20次的实验和推倒重来，终于是自己显示了，整出来了
 对于我来说，这是一个小小的里程碑吧，由于我没有一点的基础
