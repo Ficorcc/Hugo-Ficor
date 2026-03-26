@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+{{ partial "head.html" . }}
+
+<body>
+  <article class="posts">
+    <div class="row">
+      <div class="col-xs-12">
+        {{ partial "header.html" . }}
+
+        <h1 class="taxonomy-term">{{ .Title }}</h1>
+        
+        <!-- 显示 _index.md 的内容 -->
+        <div class="moments-intro" style="max-width: 800px; margin: 0 auto 30px; text-align: left;">
+          {{ .Content | replaceRE "<h1[^>]*>.*?</h1>" "" | safeHTML }}
+        </div>
+        
+        <div class="moments-list" style="max-width: 800px; margin: 0 auto;">
+          {{ range .Pages }}
+          <div class="moment-item" style="margin: 20px 0; padding: 15px 0; border-bottom: 1px dashed #ccc;">
+            <p style="margin: 0 0 10px 0; font-style: italic;">{{ .Content | plainify }}</p>
+            <a href="{{ .RelPermalink }}" style="font-size: 0.8em; color: #666; display: block; text-align: right;">{{ .Date.Format "2006-01-02" }}</a>
+          </div>
+          {{ end }}
+        </div>
+
+        {{ partial "footer.html" . }}
+      </div>
+    </div>
+  </article>
+
+  {{ partial "scripts.html" . }}
+</body>
+
+</html>

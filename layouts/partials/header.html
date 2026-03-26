@@ -32,3 +32,24 @@
   {{ end }} {{ end }}
 </div>
 <div class="header-line"></div>
+
+{{ if .IsHome }}
+<!-- 短文区域 -->
+<div class="moments-section" style="padding: 15px 0;">
+  {{ $moments := where site.RegularPages "Type" "moment" | first 1 }}
+  {{ with $moments }}
+  <div class="moments-container" style="max-width: 800px; margin: 0 auto;">
+    {{ range . }}
+    <div class="moment-item" style="margin: 10px 0; padding: 10px;">
+      <div style="position: relative;">
+        <p style="margin: 0; font-style: italic;">{{ .Content | plainify }}</p>
+        <a href="/moments/" style="font-size: 0.8em; color: #666; display: block; text-align: right; margin-top: 5px;">{{ .Date.Format "2006-01-02" }}</a>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
+
+<div class="header-line"></div>
+{{ end }}

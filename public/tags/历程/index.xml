@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>历程 | Lawpan</title>
-    <link>http://localhost:52866/tags/%E5%8E%86%E7%A8%8B/</link>
+    <link>http://localhost:1313/tags/%E5%8E%86%E7%A8%8B/</link>
     <description>探索技术与生活的交汇点</description>
     <language>zh-cn</language>
     <copyright>Lawpan</copyright>
     <lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:52866/tags/%E5%8E%86%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E5%8E%86%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>关于对跖点</title>
-      <link>http://localhost:52866/posts/%E5%85%B3%E4%BA%8E%E5%AF%B9%E8%B7%96%E7%82%B9/</link>
+      <link>http://localhost:1313/posts/%E5%85%B3%E4%BA%8E%E5%AF%B9%E8%B7%96%E7%82%B9/</link>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52866/posts/%E5%85%B3%E4%BA%8E%E5%AF%B9%E8%B7%96%E7%82%B9/</guid>
+      <guid>http://localhost:1313/posts/%E5%85%B3%E4%BA%8E%E5%AF%B9%E8%B7%96%E7%82%B9/</guid>
       <description> 对跖点是一个地理上的概念，是地球同一直径两端的点。两点经度相差180°，纬度数值相等且南北半球相反，纬度相同分南北，经度互补分东西，相距约20000千米。对跖点具有地方时相差12小时、季节相反的时空特性。
 </description>
     </item>

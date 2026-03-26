@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+{{ partial "head.html" . }}
+
+<body>
+  <article class="posts">
+    <div class="row">
+      <div class="col-xs-12">
+        {{ partial "header.html" . }}
+
+        <h1 class="taxonomy-term">{{ .Title }}</h1>
+        
+        <div class="post-content markdown-body">
+          {{ .Content }}
+          <p style="text-align: right; font-size: 0.8em; color: #666; margin-top: 20px;">{{ .Date.Format "2006-01-02" }}</p>
+        </div>
+
+        {{ partial "footer.html" . }}
+      </div>
+    </div>
+  </article>
+
+  {{ partial "scripts.html" . }}
+</body>
+
+</html>
